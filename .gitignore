@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+__pycache__/
+
+# Unreal Engine auto-generated files
+*.log
+Saved/
+Intermediate/
+Binaries/
+DerivedDataCache/
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
